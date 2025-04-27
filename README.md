@@ -1,8 +1,8 @@
 # Covey.Town-rock-paper-scissors
 Covey.Town Virtual Meeting Space 
 
-Implemented a rock paper scissors game in Typescript with asynchronous communication.
-Designed frontend in React with leaderboard displaying top 10 players.
+I implemented a rock paper scissors game in Typescript with asynchronous communication.
+I designed the frontend in React with leaderboard displaying top 10 players.
 
 
 *SITE IS  CURRENTLY UNAVAILABLE DUE TO NETLIFY SUBSCRIPTION*.
